@@ -7,7 +7,7 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 
 ### Objectives
 
--	  To set up a fully functional Active Directory environment that mimics a real-world enterprise setup.
+-	To set up a fully functional Active Directory environment that mimics a real-world enterprise setup.
 -   To implement centralized log monitoring using Splunk Enterprise.
 -   To simulate cyberattacks and monitor their impact using security tools like Atomic Red Team and Crowbar.
 -   To gain hands-on experience in system administration, security monitoring, and incident detection..
