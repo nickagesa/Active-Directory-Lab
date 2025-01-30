@@ -26,7 +26,7 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 -   Atomic Red Team
 -   Crowbar
 #### Networking:
--  Configured a private network using VirtualBox.
+-  Configure a private network using VirtualBox.
 
 ## Architecture
 
@@ -34,13 +34,8 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 
 *Ref 1: Network Diagram*
 
-### Environment Setup:
--    Virtualization Tool: VirtualBox
--    Network Configuration: 172.16.2.0/24
--    Virtual Machine	O/S	IP	Role	Task
-AD Server	Windows Server 2022	172.16.2.7/24	Domain Controller	Created and configured an Active Directory domain.
-Set up Organizational Units (OUs) for different departments.
-Created user accounts with specific roles and permissions
+![image](https://github.com/user-attachments/assets/19e9dc43-847c-4378-ac13-f861d3a147db)
+
 				
 				
 
