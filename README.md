@@ -41,11 +41,9 @@ The lab architecture includes:
 1.	Wazuh: Deployed to monitor endpoint activity and generate alerts.
 2.	Shuffle: Configured for automation workflows and integration between components.
 3.	The Hive: Set up for case management and detailed incident tracking.
-<img width="349" alt="Network Diagram " src="https://github.com/user-attachments/assets/c2ca538e-d2aa-4824-8da8-5df4460a5422" />
+![image](https://github.com/user-attachments/assets/754cbc0e-942d-4dd3-a646-cf1022a6c686)
 
-![image](https://github.com/user-attachments/assets/2717896a-7eb8-45f5-99a1-4a8fe4e72da2)
-
-*Ref 1: Architecture Diagram*
+*Ref 1: Network Diagram*
 
 ### Setup Details
 -	Wazuh was deployed on a cloud server to monitor activity from endpoint devices.
