@@ -26,24 +26,25 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 -   Atomic Red Team
 -   Crowbar
 #### Networking:
--  Configure a private network using VirtualBox.
-
-## Key Features
--   End-to-End Automation: The lab automates threat detection, analysis, and response workflows.
--   VirusTotal Integration: Real-time reputation checks for hashes and IP addresses.
--   Enhanced Case Management: Centralized incident tracking using The Hive.
--   Custom Defensive Actions: Automated blocking of malicious IPs to enhance network defense.
--   Cloud-based Deployment: Each component is deployed on separate cloud servers for scalability and security.
+-  Configured a private network using VirtualBox.
 
 ## Architecture
 
-The lab architecture includes:
-1.	Wazuh: Deployed to monitor endpoint activity and generate alerts.
-2.	Shuffle: Configured for automation workflows and integration between components.
-3.	The Hive: Set up for case management and detailed incident tracking.
 ![image](https://github.com/user-attachments/assets/754cbc0e-942d-4dd3-a646-cf1022a6c686)
 
 *Ref 1: Network Diagram*
+
+### Environment Setup:
+-    Virtualization Tool: VirtualBox
+-    Network Configuration: 172.16.2.0/24
+-    Virtual Machine	O/S	IP	Role	Task
+AD Server	Windows Server 2022	172.16.2.7/24	Domain Controller	Created and configured an Active Directory domain.
+Set up Organizational Units (OUs) for different departments.
+Created user accounts with specific roles and permissions
+				
+				
+
+
 
 ### Setup Details
 -	Wazuh was deployed on a cloud server to monitor activity from endpoint devices.
