@@ -15,11 +15,6 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 
 ## Tools and Technologies used
 
-#### Operating Systems:
--   Windows Server 2022
--   Windows 10
--   Ubuntu Server 22.04
--   Kali Linux
 #### Security Tools:
 -   SIEM (Splunk Enterprise)
 -   Sysmon
