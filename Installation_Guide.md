@@ -52,7 +52,7 @@ This document outlines the quick steps to set up a cybersecurity lab using Virtu
 
 - Download Ubuntu 22.04 ISO.
 - Create a new VM in VirtualBox:
-  - **Name:** Ubuntu 22.04
+  - **Name:** Ubuntu 22.04 (Splunk Server)
   - **Type:** Linux
   - **Version:** Ubuntu (64-bit)
   - **Memory:** 4GB+
