@@ -21,7 +21,7 @@ This document outlines the quick steps to set up a cybersecurity lab using Virtu
 
 ### 1. Windows Server 2022 (AD Server)
 
-- Download ISO from Microsoft Evaluation Center.
+- Download ISO from Microsoft Evaluation Center [https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022].
 - Create a new VM in VirtualBox:
   - **Name:** WinServer2022
   - **Type:** Windows
