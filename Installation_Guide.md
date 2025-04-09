@@ -32,11 +32,11 @@ This document outlines the quick steps to set up a cybersecurity lab using Virtu
 - Install Windows normally.
 - After installation:
   - Set a static IP address.
-  - Open **Server Manager > Add roles and features > Active Directory Domain Services**.
-  - Promote server to Domain Controller and create a new forest.
-  - Reboot the server.
-
-### 2. Kali Linux
+  ``sh
+    netsh interface ip set address name="YOUR INTERFACE NAME" static IP_ADDRESS SUBNET_MASK GATEWAY
+#### Install sysmon
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+### 3. Kali Linux
 
 - Download ISO from [https://www.kali.org/get-kali/](https://www.kali.org/get-kali/).
 - Create a new VM in VirtualBox:
@@ -48,7 +48,7 @@ This document outlines the quick steps to set up a cybersecurity lab using Virtu
 - Start VM and select the Kali ISO.
 - Follow guided installation.
 
-### 3. Ubuntu 22.04 (with Splunk)
+### 4. Ubuntu 22.04 (with Splunk)
 
 - Download Ubuntu 22.04 ISO.
 - Create a new VM in VirtualBox:
