@@ -32,8 +32,8 @@ This document outlines the quick steps to set up a cybersecurity lab using Virtu
 - Install Windows normally.
 - After installation:
   - Set a static IP address.
-  ``sh
-    netsh interface ip set address name="YOUR INTERFACE NAME" static IP_ADDRESS SUBNET_MASK GATEWAY
+  ```sh
+  netsh interface ip set address name="YOUR INTERFACE NAME" static IP_ADDRESS SUBNET_MASK GATEWAY
 #### Install sysmon
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
 ### 3. Kali Linux
