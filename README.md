@@ -8,18 +8,18 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 ### Objectives
 
 -   Install virtual box and set up machines.
--   To set up a fully functional Active Directory environment that mimics a real-world enterprise setup.
--   To implement centralized log monitoring using Splunk Enterprise.
--   To simulate cyberattacks using Atomic Red Team and Crowbar, detect the attacks using splunk.
+-   Set up a fully functional Active Directory environment that mimics a real-world enterprise setup.
+-   Implement centralized log monitoring using Sysmon and  Splunk Enterprise.
+-   To simulate MITRE attacks using Atomic Red Team and Brute force attacks using Crowbar, detect the attacks using splunk.
 -   To gain hands-on experience in system administration, security monitoring, and incident detection..
 
 ## Installation Guide
-<a href="https://github.com/nickagesa/Active-Directory-Lab/blob/main/Installation_Guide.md">Installation Guide</a>
+<a href="https://github.com/nickagesa/Active-Directory-Lab/blob/main/Installation_Guide.md">Installation Guide</a> - Install virtual box and set up machines
 
 
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/5aef55e9-bb00-4be4-90bd-71726153a66f)
+<img src="https://github.com/user-attachments/assets/5aef55e9-bb00-4be4-90bd-71726153a66f" width="500" height="600"/>
 
 ![image](https://github.com/user-attachments/assets/754cbc0e-942d-4dd3-a646-cf1022a6c686)
 
