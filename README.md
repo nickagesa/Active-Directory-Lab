@@ -19,9 +19,9 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 
 
 ## Architecture
-<img src="https://github.com/user-attachments/assets/5aef55e9-bb00-4be4-90bd-71726153a66f" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/5aef55e9-bb00-4be4-90bd-71726153a66f" width="650" height="500"/>
 
-<img src="https://github.com/user-attachments/assets/754cbc0e-942d-4dd3-a646-cf1022a6c686" width="500" height="600"/>
+<img src="https://github.com/user-attachments/assets/754cbc0e-942d-4dd3-a646-cf1022a6c686" width="500" height="500"/>
 
 *Ref 1: Network Diagram*
 
