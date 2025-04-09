@@ -13,16 +13,10 @@ This project demonstrates a realistic Active Directory (AD) environment with int
 -   To simulate cyberattacks using Atomic Red Team and Crowbar, detect the attacks using splunk.
 -   To gain hands-on experience in system administration, security monitoring, and incident detection..
 
-## Tools and Technologies used
+## Installation Guide
+<a href="https://github.com/nickagesa/Active-Directory-Lab/blob/main/Installation_Guide.md">Installation Guide</a>
 
-#### Security Tools:
--   SIEM (Splunk Enterprise)
--   Sysmon
--   Slunk Universal Forwarder
--   Atomic Red Team
--   Crowbar
-#### Networking:
--  Configure a private network using VirtualBox.
+
 
 ## Architecture
 ![image](https://github.com/user-attachments/assets/5aef55e9-bb00-4be4-90bd-71726153a66f)
